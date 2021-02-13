@@ -1,10 +1,10 @@
 {
-  [{
+  "hospitals":{
     "name": "string",
     "address":"string"
     "city": "string",
     "phone": "string"
     "pincode": "string",
     "state": "string",
-  }]
+  }
 }
