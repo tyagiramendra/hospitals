@@ -1,9 +1,9 @@
 {
   "hospitals":{
     "name": "string",
-    "address":"string"
+    "address":"string",
     "city": "string",
-    "phone": "string"
+    "phone": "string",
     "pincode": "string",
     "state": "string",
   }
