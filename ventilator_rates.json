@@ -1,0 +1,344 @@
+[
+    {
+        "city": "Agra",
+        "average price": "Rs. 4721.00",
+        "starting price": "Rs. 2500.00",
+        "price upto": "Rs. 6000.00"
+    },
+    {
+        "city": "Ahmedabad",
+        "average price": "Rs. 4309.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 10000.00"
+    },
+    {
+        "city": "Aligarh",
+        "average price": "Rs. 2980.00",
+        "starting price": "Rs. 2000.00",
+        "price upto": "Rs. 6100.00"
+    },
+    {
+        "city": "Allahabad",
+        "average price": "Rs. 5300.00",
+        "starting price": "Rs. 4000.00",
+        "price upto": "Rs. 10000.00"
+    },
+    {
+        "city": "Aurangabad",
+        "average price": "Rs. 3020.00",
+        "starting price": "Rs. 2000.00",
+        "price upto": "Rs. 7500.00"
+    },
+    {
+        "city": "Bangalore",
+        "average price": "Rs. 4294.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 8000.00"
+    },
+    {
+        "city": "Bareilly",
+        "average price": "Rs. 3350.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Bhopal",
+        "average price": "Rs. 4750.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 10000.00"
+    },
+    {
+        "city": "Bhubaneswar",
+        "average price": "Rs. 2350.00",
+        "starting price": "Rs. 1250.00",
+        "price upto": "Rs. 3500.00"
+    },
+    {
+        "city": "Chandigarh",
+        "average price": "Rs. 3010.00",
+        "starting price": "Rs. 2000.00",
+        "price upto": "Rs. 4500.00"
+    },
+    {
+        "city": "Chennai",
+        "average price": "Rs. 4654.00",
+        "starting price": "Rs. 100.00",
+        "price upto": "Rs. 10000.00"
+    },
+    {
+        "city": "Coimbatore",
+        "average price": "Rs. 4409.00",
+        "starting price": "Rs. 400.00",
+        "price upto": "Rs. 10000.00"
+    },
+    {
+        "city": "Cuttack",
+        "average price": "Rs. 2227.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 3000.00"
+    },
+    {
+        "city": "Ghaziabad",
+        "average price": "Rs. 3208.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Gorakhpur",
+        "average price": "Rs. 2900.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 4000.00"
+    },
+    {
+        "city": "Guntur",
+        "average price": "Rs. 4357.00",
+        "starting price": "Rs. 2000.00",
+        "price upto": "Rs. 6000.00"
+    },
+    {
+        "city": "Gurgaon",
+        "average price": "Rs. 3508.00",
+        "starting price": "Rs. 600.00",
+        "price upto": "Rs. 6000.00"
+    },
+    {
+        "city": "Guwahati",
+        "average price": "Rs. 1474.00",
+        "starting price": "Rs. 90.00",
+        "price upto": "Rs. 4700.00"
+    },
+    {
+        "city": "Gwalior",
+        "average price": "Rs. 2578.00",
+        "starting price": "Rs. 130.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Hyderabad",
+        "average price": "Rs. 5011.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 12500.00"
+    },
+    {
+        "city": "Indore",
+        "average price": "Rs. 2570.00",
+        "starting price": "Rs. 1200.00",
+        "price upto": "Rs. 3500.00"
+    },
+    {
+        "city": "Jaipur",
+        "average price": "Rs. 2833.00",
+        "starting price": "Rs. 2000.00",
+        "price upto": "Rs. 3500.00"
+    },
+    {
+        "city": "Jalandhar",
+        "average price": "Rs. 4836.00",
+        "starting price": "Rs. 2200.00",
+        "price upto": "Rs. 8000.00"
+    },
+    {
+        "city": "Jamshedpur",
+        "average price": "Rs. 1990.00",
+        "starting price": "Rs. 1200.00",
+        "price upto": "Rs. 4000.00"
+    },
+    {
+        "city": "Jodhpur",
+        "average price": "Rs. 3292.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Kanpur",
+        "average price": "Rs. 4009.00",
+        "starting price": "Rs. 1600.00",
+        "price upto": "Rs. 15000.00"
+    },
+    {
+        "city": "Kochi",
+        "average price": "Rs. 2407.00",
+        "starting price": "Rs. 50.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Kolkata",
+        "average price": "Rs. 2238.00",
+        "starting price": "Rs. 180.00",
+        "price upto": "Rs. 10000.00"
+    },
+    {
+        "city": "Kota",
+        "average price": "Rs. 2189.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 3500.00"
+    },
+    {
+        "city": "Lucknow",
+        "average price": "Rs. 3520.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 5500.00"
+    },
+    {
+        "city": "Ludhiana",
+        "average price": "Rs. 2854.00",
+        "starting price": "Rs. 450.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Madurai",
+        "average price": "Rs. 4757.00",
+        "starting price": "Rs. 300.00",
+        "price upto": "Rs. 12000.00"
+    },
+    {
+        "city": "Mangalore",
+        "average price": "Rs. 3292.00",
+        "starting price": "Rs. 100.00",
+        "price upto": "Rs. 9000.00"
+    },
+    {
+        "city": "Meerut",
+        "average price": "Rs. 3438.00",
+        "starting price": "Rs. 100.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Mumbai",
+        "average price": "Rs. 2838.00",
+        "starting price": "Rs. 100.00",
+        "price upto": "Rs. 8000.00"
+    },
+    {
+        "city": "Mysore",
+        "average price": "Rs. 2917.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Nagpur",
+        "average price": "Rs. 3175.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 8000.00"
+    },
+    {
+        "city": "Nashik",
+        "average price": "Rs. 3102.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 5500.00"
+    },
+    {
+        "city": "New Delhi",
+        "average price": "Rs. 4818.00",
+        "starting price": "Rs. 1800.00",
+        "price upto": "Rs. 15000.00"
+    },
+    {
+        "city": "Noida",
+        "average price": "Rs. 5470.00",
+        "starting price": "Rs. 3500.00",
+        "price upto": "Rs. 8000.00"
+    },
+    {
+        "city": "Patna",
+        "average price": "Rs. 4491.00",
+        "starting price": "Rs. 200.00",
+        "price upto": "Rs. 9000.00"
+    },
+    {
+        "city": "Pondicherry",
+        "average price": "Rs. 4150.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 9000.00"
+    },
+    {
+        "city": "Pune",
+        "average price": "Rs. 3035.00",
+        "starting price": "Rs. 675.00",
+        "price upto": "Rs. 6000.00"
+    },
+    {
+        "city": "Raipur",
+        "average price": "Rs. 2318.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Rajkot",
+        "average price": "Rs. 4085.00",
+        "starting price": "Rs. 500.00",
+        "price upto": "Rs. 10000.00"
+    },
+    {
+        "city": "Ranchi",
+        "average price": "Rs. 3100.00",
+        "starting price": "Rs. 1700.00",
+        "price upto": "Rs. 6000.00"
+    },
+    {
+        "city": "Salem",
+        "average price": "Rs. 3161.00",
+        "starting price": "Rs. 150.00",
+        "price upto": "Rs. 4025.00"
+    },
+    {
+        "city": "Siliguri",
+        "average price": "Rs. 1700.00",
+        "starting price": "Rs. 200.00",
+        "price upto": "Rs. 3000.00"
+    },
+    {
+        "city": "Solapur",
+        "average price": "Rs. 1980.00",
+        "starting price": "Rs. 700.00",
+        "price upto": "Rs. 6000.00"
+    },
+    {
+        "city": "Srinagar",
+        "average price": "Rs. 2722.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 7000.00"
+    },
+    {
+        "city": "Surat",
+        "average price": "Rs. 2731.00",
+        "starting price": "Rs. 300.00",
+        "price upto": "Rs. 15000.00"
+    },
+    {
+        "city": "Thiruvananthapuram",
+        "average price": "Rs. 3544.00",
+        "starting price": "Rs. 150.00",
+        "price upto": "Rs. 7000.00"
+    },
+    {
+        "city": "Vadodara",
+        "average price": "Rs. 3333.00",
+        "starting price": "Rs. 1000.00",
+        "price upto": "Rs. 5000.00"
+    },
+    {
+        "city": "Varanasi",
+        "average price": "Rs. 2979.00",
+        "starting price": "Rs. 150.00",
+        "price upto": "Rs. 7200.00"
+    },
+    {
+        "city": "Vijayawada",
+        "average price": "Rs. 5210.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 10000.00"
+    },
+    {
+        "city": "Visakhapatnam",
+        "average price": "Rs. 8595.00",
+        "starting price": "Rs. 3000.00",
+        "price upto": "Rs. 20000.00"
+    },
+    {
+        "city": "Warangal",
+        "average price": "Rs. 3722.00",
+        "starting price": "Rs. 1500.00",
+        "price upto": "Rs. 6000.00"
+    }
+]
